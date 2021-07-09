@@ -9,6 +9,7 @@ from .log import *
 from .matern12 import *
 from .matern32 import *
 from .matern52 import *
+from .MLP import *
 from .one import *
 from .periodic import *
 from .posterior import *
